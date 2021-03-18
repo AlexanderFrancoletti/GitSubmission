@@ -1,0 +1,15 @@
+{
+  "cover": "AddressBook",
+  "Addresses": [
+    {
+      "id": "1",
+      "NickName": "Rahul",
+      "ContactName": "Dravid"
+    },
+    {
+      "id": "2",
+      "NickName": "Sachin",
+      "ContactName": "Tendulkar"
+    }
+  ]
+}

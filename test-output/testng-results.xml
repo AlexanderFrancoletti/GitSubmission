@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36973" started-at="2021-02-25T18:30:58Z" finished-at="2021-02-25T18:31:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36973" started-at="2021-02-25T18:30:58Z" finished-at="2021-02-25T18:31:35Z">
+      <class name="seleniumgenc.SeleniumPracticeTekstacShopifyTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeTest" is-config="true" duration-ms="372" started-at="2021-02-25T12:30:58Z" finished-at="2021-02-25T12:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="8095" started-at="2021-02-25T12:30:59Z" finished-at="2021-02-25T12:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incomplete_form_issues_error(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="incomplete_form_issues_error" duration-ms="891" started-at="2021-02-25T12:31:07Z" data-provider="missingFields" finished-at="2021-02-25T12:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monroe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coimbatore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[KimmiePie]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[UserName can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomplete_form_issues_error -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="afterTest" is-config="true" duration-ms="560" started-at="2021-02-25T12:31:08Z" finished-at="2021-02-25T12:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="5628" started-at="2021-02-25T12:31:08Z" finished-at="2021-02-25T12:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incomplete_form_issues_error(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="incomplete_form_issues_error" duration-ms="782" started-at="2021-02-25T12:31:14Z" data-provider="missingFields" finished-at="2021-02-25T12:31:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monroe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kimmie1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coimbatore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Passwd can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomplete_form_issues_error -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="afterTest" is-config="true" duration-ms="534" started-at="2021-02-25T12:31:15Z" finished-at="2021-02-25T12:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="4621" started-at="2021-02-25T12:31:15Z" finished-at="2021-02-25T12:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incomplete_form_issues_error(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="incomplete_form_issues_error" duration-ms="817" started-at="2021-02-25T12:31:20Z" data-provider="missingFields" finished-at="2021-02-25T12:31:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monroe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kimmie2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coimbatore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[KimmiePie]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Firstname can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomplete_form_issues_error -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="afterTest" is-config="true" duration-ms="526" started-at="2021-02-25T12:31:21Z" finished-at="2021-02-25T12:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="4666" started-at="2021-02-25T12:31:21Z" finished-at="2021-02-25T12:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incomplete_form_issues_error(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="incomplete_form_issues_error" duration-ms="803" started-at="2021-02-25T12:31:26Z" data-provider="missingFields" finished-at="2021-02-25T12:31:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kimmie3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coimbatore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[KimmiePie]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Lastname can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomplete_form_issues_error -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="afterTest" is-config="true" duration-ms="546" started-at="2021-02-25T12:31:27Z" finished-at="2021-02-25T12:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="6372" started-at="2021-02-25T12:31:27Z" finished-at="2021-02-25T12:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incomplete_form_issues_error(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="incomplete_form_issues_error" duration-ms="820" started-at="2021-02-25T12:31:34Z" data-provider="missingFields" finished-at="2021-02-25T12:31:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coimbatore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[KimmiePie]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Lastname can't be blank
+UserName can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomplete_form_issues_error -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seleniumgenc.SeleniumPracticeTekstacShopifyTests@1e397ed7]" name="afterTest" is-config="true" duration-ms="457" started-at="2021-02-25T12:31:35Z" finished-at="2021-02-25T12:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- seleniumgenc.SeleniumPracticeTekstacShopifyTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
